@@ -1,0 +1,118 @@
+.App {
+  text-align: center;
+}
+
+#mysoft{
+  font-family: "Poppins",cursive;
+}
+
+#navdropmenu{
+  font-family: "Rajdhani",cursive;
+}
+
+#titleproductlist{
+  font-family: "Rajdhani",cursive;
+}
+
+#operationsmenu{
+  font-family: "Poppins",cursive;
+  margin-left: 0;
+}
+
+#operations2menu{
+  font-family: "Poppins",cursive;
+}
+
+#login{
+  font-family: "Roboto",cursive;
+  width: 40%;
+  margin-top:60px ;
+  margin-right:0;
+}
+
+#back{
+  margin-right: 100%;
+  margin-top: 3%;
+}
+
+.backdlt{
+  margin-right: 100%;
+  margin-top: 5%;
+}
+
+.operationsform{
+  width: 50%;
+  margin: auto;
+  font-family: "Rajdhani",cursive;
+}
+
+#backprdctdlt{
+  margin-right: 100%;
+  margin-top: 5%;
+}
+
+#backcstmrdlt{
+  margin-right: 100%;
+  margin-top: 5%;
+}
+
+#backprdctadd{
+  margin-right: 100%;
+  margin-top: 5%;
+}
+
+#pagefooter{
+  width: 100%;
+}
+
+#backorderdlt{
+  margin-right:100%;
+  margin-top: 7%;
+}
+
+#backorderadd{
+  margin-right: 100%;
+  margin-top: 7%;
+}
+
+#cntc{
+  width: 80%;
+  margin-right:100%;
+  font-family: "Poppins";
+} 
+
+#emutabakatfoto{
+  height: 250px;
+  width: 70%;
+}
+
+#raporlamafoto{
+  height: 280px;
+}
+
+#btransfoto{
+  margin-right: 70%;
+  width: 70%;
+  height: 300px;
+}
+
+.fonttype{
+  font-family: "Poppins",cursive;
+}
+
+#operationslist{
+  width: 100%;
+  background-color: black;
+}
+
+#operationsadd{
+  width: 100%;
+}
+
+#operationsdelete{
+  width: 100%;
+}
+
+#formcontact{
+  font-family: "Poppins",cursive;
+}
