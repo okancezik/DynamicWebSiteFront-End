@@ -1,6 +1,6 @@
 
-<p>Ana Sayfa</p>
-<img>![front1](https://github.com/okancezik/DynamicWebSiteFront-End/assets/73329707/2b477260-9db9-4a69-9f88-913bb88815e3)</img>
+Ana Sayfa
+![front1](https://github.com/okancezik/DynamicWebSiteFront-End/assets/73329707/2b477260-9db9-4a69-9f88-913bb88815e3)
 
 
 <p>Ana Sayfa Ürünler</p>
